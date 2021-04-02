@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weather App</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'style.css') }}">
+    </head>
+
+    <body>
+        <div id="main">
+            <h1>Find the Weather</h1>
+            <form method="POST">
+                <div>
+                    <label for="city"></label>
+                    <input type="text" id="city" placeholder="Delhi" name="city"/>
+                </div>
+                <input type="submit" value="Submit"/>
+            </form>
+            {% if result != None %}
+                <h3>{{ result.region }}, {{ result.state }}, India</h3>
+                <h3>Temperature: {{ result.temp_now }}&#x2103;</h3>
+                <h3>Current Conditions: {{ result.weather_now }}</h3>
+                <h3>{{result.precipitation}}</h3>
+                <h3>{{result.wind}}</h3>
+                {% if result.check == 0 %}
+                    <div>
+                    <h1>Couldn't find your city name. Check Spelling</h1>
+                    </div>
+                {% endif %}
+            {% endif %}
+        </div>
+    </body>
+</html>

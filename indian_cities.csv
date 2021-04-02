@@ -1,0 +1,215 @@
+,City,State
+0,abohar,punjab
+1,adilabad,telangana
+2,agartala,tripura
+3,agra,uttar pradesh
+4,ahmadnagar,maharashtra
+5,ahmedabad,gujarat
+6,aizawl  ,mizoram
+7,ajmer,rajasthan
+8,akola,maharashtra
+9,alappuzha,kerala
+10,aligarh,uttar pradesh
+11,alipurduar,west bengal
+12,allahabad,uttar pradesh
+13,alwar,rajasthan
+14,ambala,haryana
+15,amaravati,maharashtra
+16,amritsar,punjab
+17,asansol,west bengal
+18,aurangabad,maharashtra
+19,aurangabad,bihar
+20,bakshpur,uttar pradesh
+21,bamanpuri,uttar pradesh
+22,baramula,jammu and kashmir
+23,barddhaman,west bengal
+24,bareilly,uttar pradesh
+25,belgaum,karnataka
+26,bellary,karnataka
+27,bengaluru,karnataka
+28,bhagalpur,bihar
+29,bharatpur,rajasthan
+30,bharauri,uttar pradesh
+31,bhatpara,west bengal
+32,bhavnagar,gujarat
+33,bhilai,chhattisgarh
+34,bhilwara,rajasthan
+35,bhiwandi,maharashtra
+36,bhiwani,haryana
+37,bhopal ,madhya pradesh
+38,bhubaneshwar,odisha
+39,bhuj,gujarat
+40,bhusaval,maharashtra
+41,bidar,karnataka
+42,bijapur,karnataka
+43,bikaner,rajasthan
+44,bilaspur,chhattisgarh
+45,brahmapur,odisha
+46,budaun,uttar pradesh
+47,bulandshahr,uttar pradesh
+48,calicut,kerala
+49,chanda,maharashtra
+50,chandigarh ,chandigarh
+51,chennai,tamil nadu 
+52,chikka mandya,karnataka
+53,chirala,andhra pradesh
+54,coimbatore,tamil nadu 
+55,cuddalore,tamil nadu 
+56,cuttack,odisha
+57,daman,daman and diu
+58,davangere,karnataka
+59,dehradun,uttarakhand
+60,delhi,delhi
+61,dhanbad,jharkhand
+62,dibrugarh,assam
+63,dindigul,tamil nadu 
+64,dispur,assam
+65,diu,daman and diu
+66,faridabad,haryana
+67,firozabad,uttar pradesh
+68,fyzabad,uttar pradesh
+69,gangtok,sikkim
+70,gaya,bihar
+71,ghandinagar,gujarat
+72,ghaziabad,uttar pradesh
+73,gopalpur,uttar pradesh
+74,gulbarga,karnataka
+75,guntur,andhra pradesh
+76,gurugram,haryana
+77,guwahati,assam
+78,gwalior,madhya pradesh
+79,haldia,west bengal
+80,haora,west bengal
+81,hapur,uttar pradesh
+82,haripur,punjab
+83,hata,uttar pradesh
+84,hindupur,andhra pradesh
+85,hisar,haryana
+86,hospet,karnataka
+87,hubli,karnataka
+88,hyderabad,telangana
+89,imphal,manipur
+90,indore,madhya pradesh
+91,itanagar,arunachal pradesh
+92,jabalpur,madhya pradesh
+93,jaipur,rajasthan
+94,jammu,jammu and kashmir
+95,jamshedpur,jharkhand
+96,jhansi,uttar pradesh
+97,jodhpur,rajasthan
+98,jorhat,assam
+99,kagaznagar,andhra pradesh
+100,kakinada,andhra pradesh
+101,kalyan,maharashtra
+102,karimnagar,telangana
+103,karnal,haryana
+104,karur,tamil nadu 
+105,kavaratti,lakshadweep
+106,khammam,telangana
+107,khanapur,maharashtra
+108,kochi,kerala
+109,kohima,nagaland
+110,kolar,karnataka
+111,kolhapur,maharashtra
+112,kolkata ,west bengal
+113,kollam,kerala
+114,kota,rajasthan
+115,krishnanagar,west bengal
+116,krishnapuram,tamil nadu 
+117,kumbakonam,tamil nadu 
+118,kurnool,andhra pradesh
+119,latur,maharashtra
+120,lucknow,uttar pradesh
+121,ludhiana,punjab
+122,machilipatnam,andhra pradesh
+123,madurai,tamil nadu 
+124,mahabubnagar,telangana
+125,malegaon camp,maharashtra
+126,mangalore,karnataka
+127,mathura,uttar pradesh
+128,meerut,uttar pradesh
+129,mirzapur,uttar pradesh
+130,moradabad,uttar pradesh
+131,mumbai,maharashtra
+132,muzaffarnagar,uttar pradesh
+133,muzaffarpur,bihar
+134,mysore,karnataka
+135,nagercoil,tamil nadu 
+136,nalgonda,telangana
+137,nanded,maharashtra
+138,nandyal,andhra pradesh
+139,nasik,maharashtra
+140,navsari,gujarat
+141,nellore,andhra pradesh
+142,new delhi,delhi
+143,nizamabad,telangana
+144,ongole,andhra pradesh
+145,pali,rajasthan
+146,panaji,goa
+147,panchkula,haryana
+148,panipat,haryana
+149,parbhani,maharashtra
+150,pathankot,punjab
+151,patiala,punjab
+152,patna,bihar
+153,pilibhit,uttar pradesh
+154,porbandar,gujarat
+155,port blair,andaman and nicobar islands
+156,proddatur,andhra pradesh
+157,puducherry,puducherry
+158,pune,maharashtra
+159,puri,odisha
+160,purnea,bihar
+161,raichur,karnataka
+162,raipur,chhattisgarh
+163,rajahmundry,andhra pradesh
+164,rajapalaiyam,tamil nadu 
+165,rajkot,gujarat
+166,ramagundam,telangana
+167,rampura,rajasthan
+168,ranchi,jharkhand
+169,ratlam,madhya pradesh
+170,raurkela,odisha
+171,rohtak,haryana
+172,saharanpur,uttar pradesh
+173,saidapur,uttar pradesh
+174,saidpur,jammu and kashmir
+175,salem,tamil nadu 
+176,samlaipadar,odisha
+177,sangli,maharashtra
+178,saugor,madhya pradesh
+179,shahbazpur,uttar pradesh
+180,shiliguri,west bengal
+181,shillong ,meghalaya
+182,shimla,himachal pradesh
+183,shimoga,karnataka
+184,sikar,rajasthan
+185,silchar,assam
+186,silvassa,dadra and nagar haveli
+187,sirsa,haryana
+188,sonipat,haryana
+189,srinagar,jammu and kashmir
+190,surat,gujarat
+191,tezpur,assam
+192,thanjavur,tamil nadu 
+193,tharati etawah,uttar pradesh
+194,thiruvananthapuram,kerala
+195,tiruchchirappalli,tamil nadu 
+196,tirunelveli,tamil nadu 
+197,tirupati,andhra pradesh
+198,tiruvannamalai,tamil nadu 
+199,tonk,rajasthan
+200,tuticorin,tamil nadu 
+201,udaipur,rajasthan
+202,ujjain,madhya pradesh
+203,vadodara,gujarat
+204,valparai,tamil nadu 
+205,varanasi,uttar pradesh
+206,vellore,tamil nadu 
+207,vishakhapatnam,andhra pradesh
+208,vizianagaram,andhra pradesh
+209,warangal,telangana
+210,jorapokhar,jharkhand
+211,brajrajnagar,odisha
+212,talcher,odisha
+213,prayagraj,uttar pradesh
